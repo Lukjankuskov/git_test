@@ -3,5 +3,11 @@ test string2
 test string3
 test string4
 
+<<<<<<< HEAD
 test git revert
 ___________________
+=======
+test string3_1
+test string4_1
+test string5
+>>>>>>> 44632258b6ce34b011a7f08ca2caf05cb8f37c68
